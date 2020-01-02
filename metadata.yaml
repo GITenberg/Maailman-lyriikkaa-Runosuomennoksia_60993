@@ -1,5 +1,5 @@
 _repo: Maailman-lyriikkaa-Runosuomennoksia_60993
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Kouta, Aarni
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '7932'
     url: http://www.gutenberg.org/2009/agents/7932
     wikipedia: https://fi.wikipedia.org/wiki/Aarni_Kouta
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Various
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60993#Maailman-lyriikkaa-Runosuomennoksia
 gutenberg_issued: '2019-12-22'
 gutenberg_type: Text
 identifiers:
